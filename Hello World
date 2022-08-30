@@ -1,0 +1,6 @@
+#include(studio.h)
+viod main()
+{
+  print("Hello World...!!!");
+  }
+ 
